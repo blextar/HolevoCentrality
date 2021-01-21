@@ -1,13 +1,19 @@
 # HolevoCentrality
-Python implementation of the Holevo centrality introduced and analysed in [1,2,3]. Please cite our work if you use this code.
+Python 3 implementation of the Holevo centrality introduced and analysed in [1,2,3]. Please cite our work if you use this code.
 
-The Python 3 file contains the implementations of:
+The Python file contains the implementations of:
 
 (a) Von Neumann entropy of a graph, both Laplacian- and normalised Laplacian-based, and both exact and approximate
 
 (b) Holevo edge centrality
 
 (c) Holevo node centrality
+
+Dependencies:
+
+- NetworkX (https://networkx.org/)
+
+- Numpy (https://numpy.org/)
 
 References:
 
