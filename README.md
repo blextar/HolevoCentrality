@@ -1,11 +1,15 @@
 # HolevoCentrality
-Python implementation of the Holevo centrality introduced and analysed in [1,2,3]
+Python implementation of the Holevo centrality introduced and analysed in [1,2,3]. Please cite our work if you use this code.
 
 The Python 3 file contains the implementations of:
 
 (a) Von Neumann entropy of a graph, both Laplacian- and normalised Laplacian-based, and both exact and approximate
+
 (b) Holevo edge centrality
+
 (c) Holevo node centrality
+
+References:
 
 [1] Lockhart, J., Minello, G., Rossi, L., Severini, S. and Torsello, A., 2016, November. Edge centrality via the Holevo quantity. In Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR) (pp. 143-152). Springer, Cham.
 
